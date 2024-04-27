@@ -48,7 +48,7 @@ Let's take a look at how text-to-video generation works and the latest developme
 Like the text-to-image task, early work on text-to-video generation dates back only a few years. Early research predominantly used GAN and VAE-based approaches to auto-regressively generate frames given a caption (see [Text2Filter](https://huggingface.co/papers/1710.00421) and [TGANs-C](https://huggingface.co/papers/1804.08264)). While these works provided the foundation for a new computer vision task, they are limited to low resolutions, short-range, and singular, isolated motions.
 
 <p align="center">
-    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/140_text-to-video/TGANs-C.png" alt="tgans-c"><br>
+    <img src="https://www.kaggle.com/datasets/ambityga/imagenet100?resource=download" alt="tgans-c"><br>
     <em>Initial text-to-video models were extremely limited in resolution, context and length, image taken from <a href=https://arxiv.org/abs/1804.08264>TGANs-C</a>.</em>
 </p>
 
